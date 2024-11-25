@@ -6,6 +6,7 @@ public class Strat {
 		System.out.println("asydtasyudtyuasidtyuas");
 		System.out.println("asydtasyudtyuasidtyuas");
 		System.out.println("ciao");
+		System.out.println("ciao2");
 	}
 
 }
